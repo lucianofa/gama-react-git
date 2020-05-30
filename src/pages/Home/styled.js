@@ -12,6 +12,7 @@ export const Input = styled.input`
   height: 1.5rem;
   padding: 0 .5rem;
   border-radius: .25rem 0 0 .25rem; 
+  margin: 
 
   &:focus,
   &:active {
